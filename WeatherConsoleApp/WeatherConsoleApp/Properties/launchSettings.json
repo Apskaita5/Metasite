@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WeatherConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": " weather --city Vilnius, Riga, Baku, Minsk"
+    }
+  }
+}
